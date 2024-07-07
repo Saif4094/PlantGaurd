@@ -19,6 +19,6 @@ PlantGard aims to help farmers and agricultural professionals identify plant dis
 - TensorFlow
 - Keras
 - Flask
-- React
+- React JS
 - Node JS
 - Express JS
