@@ -2,11 +2,11 @@
 
 PlantGard is a machine learning project designed to detect plant diseases using the VGG19 model. 
 
-Introduction
+#**Introduction**
 
 PlantGard aims to help farmers and agricultural professionals identify plant diseases early by analyzing images of plant leaves. The project uses the VGG19 model, a convolutional neural network, to classify images into different disease categories.
 
-Features
+#**Features**
 
 Image classification using the VGG19 model
 Supports multiple plant diseases
