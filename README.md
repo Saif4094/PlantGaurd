@@ -12,3 +12,13 @@ PlantGard aims to help farmers and agricultural professionals identify plant dis
 - Supports multiple plant diseases
 - Easy-to-use interface for uploading and analyzing images
 - High accuracy and fast processing
+
+# **Requirements**
+
+- Python 
+- TensorFlow
+- Keras
+- Flask
+- React
+- Node JS
+- Express JS
