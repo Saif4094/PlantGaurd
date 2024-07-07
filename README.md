@@ -1,4 +1,4 @@
-PlantGard
+**PlantGard**
 
 PlantGard is a machine learning project designed to detect plant diseases using the VGG19 model. 
 
