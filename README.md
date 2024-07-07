@@ -8,7 +8,7 @@ PlantGard aims to help farmers and agricultural professionals identify plant dis
 
 # **Features**
 
-Image classification using the VGG19 model
-Supports multiple plant diseases
-Easy-to-use interface for uploading and analyzing images
-High accuracy and fast processing
+- Image classification using the VGG19 model
+- Supports multiple plant diseases
+- Easy-to-use interface for uploading and analyzing images
+- High accuracy and fast processing
